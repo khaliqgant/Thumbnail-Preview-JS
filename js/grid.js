@@ -513,3 +513,4 @@ var Grid = (function() {
 	};
 
 })();
+Grid.init();
